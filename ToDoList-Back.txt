@@ -1,0 +1,4 @@
+En este txt voy a anotar las cosas para hacer.
+
+Octubre 2022
+- crear base de datos SQL
